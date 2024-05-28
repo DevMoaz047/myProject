@@ -1,0 +1,44 @@
+.div1{
+    background-image: linear-gradient(red,green, blue,yellow,gray,orange); 
+    height: 37em; 
+    width: 80em; 
+    margin: auto; 
+    margin-top: 1.5em; 
+    padding-top: 3em;
+}
+.div2{
+    background-color:rgba(75, 216, 188, 0.76); 
+    height: 30em; 
+    width: 60em; 
+    margin: auto; 
+    padding-top: 5em;
+
+}
+.div3{
+    background-color: rgb(226, 226, 181); 
+    height: 20em; 
+    width: 30em; 
+    margin: auto;
+    text-align: center;
+
+}
+h3{
+    color: blue;
+    padding-top: 1em;
+    padding-right:12em ;
+
+}
+input{
+    
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+    text-align:left ;
+
+     
+}
+button{
+    
+    margin-top: 2em;
+    font-size: 1.5em;
+}
